@@ -6,7 +6,7 @@
   - JavaScript and React
 - 📫 How to reach me: ...
   - My [web](https://rubenmate.com)
-  - Send me a [mail](mailto:conotacto@rubenmate.com)
+  - Send me a [mail](mailto:contacto@rubenmate.com)
   <!--
       **rubenmate/rubenmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
