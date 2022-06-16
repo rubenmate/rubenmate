@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ...
   - JavaScript and React
 - 📫 How to reach me: ...
-  - My <a href=”https://rubenmate.com" target=”\_blank” rel=”noreferrer”>web</a>
-  - Send me a <a href=”mailto:conotacto@rubenmate.com" target=”\_blank” rel=”noreferrer”>mail</a>
+  - My [web](https://rubenmate.com)
+  - Send me a [mail](mailto:conotacto@rubenmate.com)
   <!--
       **rubenmate/rubenmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
