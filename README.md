@@ -4,9 +4,11 @@
   - My personal website
 - 🌱 I’m currently learning ...
   - JavaScript and React
-- 📫 How to reach me: ... - My <a href=”https://rubenmate.com" target=”\_blank” rel=”noreferrer”>web</a> - Send me a <a href=”mailto:conotacto@rubenmate.com" target=”\_blank” rel=”noreferrer”>mail</a>
-<!--
-**rubenmate/rubenmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: ...
+  - My <a href=”https://rubenmate.com" target=”\_blank” rel=”noreferrer”>web</a>
+  - Send me a <a href=”mailto:conotacto@rubenmate.com" target=”\_blank” rel=”noreferrer”>mail</a>
+  <!--
+      **rubenmate/rubenmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
