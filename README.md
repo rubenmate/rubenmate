@@ -1,8 +1,4 @@
 ### Hi there 👋
-
--   🌱 I’m currently learning ...
-    -   HTML/CSS
-    -   Typescript and React
 -   📫 How to reach me: ...
     -   My [web](https://rubenmate.com)
     -   Send me a [mail](mailto:contacto@rubenmate.com)
